@@ -1,0 +1,31 @@
+>P0CAX7_Mycobacterium ::48 49 
+>Q50906_Mycobacterium ::49 57 66 316 
+>P0A608_Mycobacterium ::45 46 48 51 53 57 
+>Q5LCH1_Bacteroides ::80 171 224 
+>P36912_Flavobacterium ::73 89 143 
+>P36913_Flavobacterium ::88 
+>Q47899_Flavobacterium ::355 
+>Q59288_Pedobacter ::328 455 
+>Q46079_Pedobacter ::234 
+>Q05819_Pedobacter ::39 
+>Q46080_Pedobacter ::134 
+>Q6TL22_Aneurinibacillus ::67 
+>Q6TL21_Aneurinibacillus ::471 69 
+>Q8VTF1_Geobacillus ::590 620 794 
+>Q02551_Listeria ::141 145 173 175 180 
+>D7PPP4_Ecoli ::102 111 116 242 252 334 391 409 540 546 559 570 577 578  583 154 
+>P0A0S2_Helicobacter ::181 364 208 246 354 395 405 
+>P21184_Pseudomonas ::190 261 
+>P72151_Pseudomonas ::192 196 
+>P18774_Pseudomonas ::154 
+>Q8KQ32_Pseudomonas ::70 72 87 88 91 95 
+>Q6I809_Pseudomonas ::143 164 176 183 193 201 
+>A7GGU9_Clostridium ::126 139 142 165 171 176 182 
+>Q18CX7_Clostridium ::141 174 183 188 205 
+>Q2M5R2_Campylobacter ::207 343 348 394 398 401 405 409 418 426 430 437 441 449 452 455 458 461 482 
+>P56963_Campylobacter ::181 207 464 465 
+>Q5F759_Neisseria ::173 
+>Q5F718_Neisseria ::337 
+>Q5F7X2_Neisseria ::88 
+>P02974_Neisseria ::70 
+>P05431_Neisseria ::70 

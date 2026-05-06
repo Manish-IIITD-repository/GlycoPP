@@ -1,0 +1,28 @@
+>O54088_Sulfolobus ::144 164 
+>Q4J6E5_Sulfolobus ::1042 1093 1134 1197 1217 1252 1276 1304 1419 
+>P17118_Sulfolobus ::65 69 
+>Q54436_Staphylothermus ::44 605 641 685 708 1279 1402 
+>Q9HM69_Halobacterium ::36 339 398 438 513 643 727 751 787 811 815 
+>P25062_Halobacterium ::47 117 
+>Q9C4R3_Methanococcus ::122 128 168 
+>Q9C4R2_Methanococcus ::78 122 131 136 
+>Q6LWP1_Methanococcus ::150 175 
+>P27802_Methanococcus ::175 
+>P27803_Methanococcus ::38 71 77 115 136 
+>P27804_Methanococcus ::38 72 77 113 172 208 
+>P27805_Methanococcus ::115 128 
+>Q50833_Methanococcus ::102 
+>P27373_Methanothermus ::29 
+>P72186_Pyrococcus ::152 
+>Q0PC23_Campylobacter ::101 
+>Q0PBZ4_Campylobacter ::28 
+>Q0PBT9_Campylobacter ::35 
+>Q0PBL7_Campylobacter ::90 
+>Q0PBE3_Campylobacter ::123 273 
+>Q46125_Campylobacter ::28 
+>Q0P8C1_Campylobacter ::73 169 
+>Q0P7V9_Campylobacter ::28 106 113 
+>Q9KIS0_Campylobacter ::32 97 
+>A1VZX2_Campylobacter ::146 107 
+>1Z1NX_Desulfovibrio ::290 
+>Q48031_Haemophilus ::444 484 498 546 560 570 605 609 636 642 709 773 801 806 828 835 912 928 946 952 964 973 995 1004 1029 1044 1131 1156 1348 1352 1366 
