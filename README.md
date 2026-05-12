@@ -13,6 +13,8 @@ Chauhan JS, Bhat AH, Raghava GPS, Rao A (2012).
 *PLoS ONE* 7(7): e40155. 
 [https://doi.org/10.1371/journal.pone.0040155](https://doi.org/10.1371/journal.pone.0040155)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20063897)
+
 ---
 
 ## About the Platform
